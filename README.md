@@ -1,2 +1,2 @@
 # Calculator
-A simple and fully working calculator built using Java performing various operations.
+A simple calculator built using Java performing various operations.
